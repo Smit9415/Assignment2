@@ -15,5 +15,3 @@ packages/
 
 # Ignore test result files
 TestResult.xml
-
-.gitignore
