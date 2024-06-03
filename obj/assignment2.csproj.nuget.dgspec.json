@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Smit\\Downloads\\SQ\\assignment2\\assignment2.csproj": {}
+    "C:\\Users\\Yuvraj\\Downloads\\sem2\\Assignment2\\assignment2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Smit\\Downloads\\SQ\\assignment2\\assignment2.csproj": {
+    "C:\\Users\\Yuvraj\\Downloads\\sem2\\Assignment2\\assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Smit\\Downloads\\SQ\\assignment2\\assignment2.csproj",
+        "projectUniqueName": "C:\\Users\\Yuvraj\\Downloads\\sem2\\Assignment2\\assignment2.csproj",
         "projectName": "assignment2",
-        "projectPath": "C:\\Users\\Smit\\Downloads\\SQ\\assignment2\\assignment2.csproj",
-        "packagesPath": "C:\\Users\\Smit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Smit\\Downloads\\SQ\\assignment2\\obj\\",
+        "projectPath": "C:\\Users\\Yuvraj\\Downloads\\sem2\\Assignment2\\assignment2.csproj",
+        "packagesPath": "C:\\Users\\Yuvraj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yuvraj\\Downloads\\sem2\\Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Smit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yuvraj\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
