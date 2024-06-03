@@ -54,7 +54,7 @@ namespace assignment.Tests
         }
 
         [Test]
-        public void Method7_Price_WithinRange()
+        public void CheckPrice_Price_WithinRange()
         {
             var product = new Product(64, "Product1", 345.0m, 43);
             var price = product.Price;
@@ -62,7 +62,7 @@ namespace assignment.Tests
         }
 
         [Test]
-        public void Method8_Price_True()
+        public void CheckPrice_Price_True()
         {
             var product = new Product(10, "Product1", 40.0m, 10);
             var price = product.Price;
@@ -70,7 +70,7 @@ namespace assignment.Tests
         }
 
         [Test]
-        public void Method9_Price_NotNullOrEmpty()
+        public void CheckPrice_Price_NotNullOrEmpty()
         {
             var product = new Product(10, "Product1", 230.0m, 10);
             var price = product.Price;
